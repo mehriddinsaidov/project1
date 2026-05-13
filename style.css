@@ -30,7 +30,7 @@ menu a {
 menu a:hover {
     transform: scale(1.1);
     transition: all 0.3s linear;
-    background: linear-gradient(to bottom right, #D10ED1, #10A3DA);
+    background: #D10ED1;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: line-through;
@@ -68,7 +68,7 @@ menu a:hover {
 
 .button1 {
     margin-right: 20px;
-    background: linear-gradient(to bottom right, #D10ED1, #10A3DA);
+    background: #D10ED1;
 }
 
 .section1-text .button2 {
