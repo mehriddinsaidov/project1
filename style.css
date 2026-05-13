@@ -30,10 +30,6 @@ menu a {
 menu a:hover {
     transform: scale(1.1);
     transition: all 0.3s linear;
-    background: #D10ED1;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-decoration: line-through;
 }
 
 .section1 {
